@@ -1,0 +1,15 @@
+.post {
+    background-color: #eaeaea;
+    padding: 10px;
+    margin-bottom: 10px;
+}
+.post h2 {
+    color: #333;
+    font-size: 18px;
+    margin-bottom: 5px;
+}
+
+.post-details {
+    color: #333;
+    font-size: 14px;
+}
